@@ -1,3 +1,4 @@
+// DANIEL ALEXIS VILLOTA GOMEZ Y JUAN ESTEBAN TIRACA IGUA
 // Definición de pines
 const int pinRojo = 2;
 const int pinAmarillo = 3;
